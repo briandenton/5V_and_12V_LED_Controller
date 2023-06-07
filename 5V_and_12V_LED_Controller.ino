@@ -1,5 +1,5 @@
 /*///////////////////////////////////////////////////////////////////////////////
-FILENAME   : SK6812.ino
+FILENAME   : 5V_and_12V_LED_Controller.ino
 AUTHOR     : Brian Denton <denton_brian_david@lilly.com>
 DATE       : 2023-05-30
 PROJECT    : 
